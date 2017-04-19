@@ -4,8 +4,8 @@ chose best server or ip or host from a list of servers, and set the shadowsocks 
 #### usage
 first, clone the repo
 ```bash
-git clone this_repo
-cd repo
+git clone https://github.com/csrgxtu/bullet.git
+cd bullet
 ```
 
 second, fill the server list you want to chose from in ping.py main method
